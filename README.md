@@ -1,3 +1,3 @@
-# SequentialTaillightSystem
+# Microwave Controller
 
-Designed a tail-light system with sequential light patterns with turn signals, hazard, braking, and customizable dimming functions. Implemented on Xilinx Artix 7 FPGA board with Verilog HDL.
+Created microwave system with sensors and customizable timer using Verilog HDL and uploaded onto a Xilinx Artix 7 FPGA board.
