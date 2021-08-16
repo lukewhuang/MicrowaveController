@@ -1,0 +1,32 @@
+[*]
+[*] GTKWave Analyzer v3.3.107 (w)1999-2020 BSI
+[*] Mon May 24 21:54:30 2021
+[*]
+[dumpfile] "/Users/lukehuang/Desktop/ECE152A/Lab6/dump.vcd"
+[dumpfile_mtime] "Mon May 24 21:53:43 2021"
+[dumpfile_size] 14790
+[savefile] "/Users/lukehuang/Desktop/ECE152A/Lab6/Untitled.gtkw"
+[timestart] 0
+[size] 3370 1026
+[pos] -1 -1
+*-7.847117 185 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 193
+[signals_width] 217
+[sst_expanded] 1
+[sst_vpaned_height] 307
+@28
+controller_tb.cancel_button
+controller_tb.clk
+controller_tb.door_status
+controller_tb.power
+controller_tb.start_button
+@22
+controller_tb.state_display1[6:0]
+controller_tb.state_display2[6:0]
+controller_tb.state_display3[6:0]
+controller_tb.state_display4[6:0]
+@25
+controller_tb.time_display[6:0]
+controller_tb.timer[6:0]
+[pattern_trace] 1
+[pattern_trace] 0
